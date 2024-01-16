@@ -4,7 +4,7 @@ Welcome to RiderXperience, an immersive and seamless ride-sharing app built with
 
 ## Project Overview
 
-RiderXperience is an exact clone of the popular ride-sharing app Uber, offering a reliable and convenient solution for users to hail rides, track their drivers in real-time, and complete secure transactions seamlessly. Built with industry-leading technologies, this app provides a smooth and enjoyable experience for both riders and drivers.
+RiderXperience is an exact clone of the popular ride-sharing app Uber, offering a reliable and convenient solution for users to hail rides, track their drivers in real-time, and complete secure transactions seamlessly. Built with industry-leading technologies, this app provides smooth and enjoyable experience for both riders and drivers.
 
 ## Key Features
 
